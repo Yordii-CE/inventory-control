@@ -1,5 +1,12 @@
 Inventory control and personnel website made with [easyflow](https://github.com/Yordii-CE/easyflow) framework and MySQL.
 
+### Screenshots
+
+
+
+https://github.com/Yordii-CE/inventory-control/assets/94014080/a5384999-b7f4-4095-a97c-0f21823eafdc
+
+
 ### Pages
 
 ![Descripción de la imagen](/screenshots/employees.jpeg)
